@@ -1,0 +1,24 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-top: 8px;
+}
+
+#switchBtn, #switchBtn2 {
+    border: 1px solid black;
+}
+
+.lightOn {
+    background-color: #fff;
+    background-color: #000;
+}
+
+.lightOff {
+    background-color: #000;
+    color: #fff;
+}
